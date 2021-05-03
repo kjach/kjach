@@ -11,9 +11,9 @@ const kacper = {
                 },
   languages: [HTML, CSS, JavaScript, Java, Python, C#, MS SQL Server],
   goals: {
-              university: "Master's degree",
-              job: "Web Developer"
-              }
+                university: "Master's degree",
+                job: "Web Developer"
+                }
 }  
 ```
  
