@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Kacper
-Welcome to my page!
-I've started my programming journey in October 2019. Trying to become a Web Developer.
-I am first year Computer Science and Economics student at Gdansk University.
+Welcome to my page!  
+I've started my programming journey in October 2019. Trying to become a Web Developer.  
+I am first year Computer Science and Economics student at Gdansk University.  
 
 ## Technologies & Tools
 Currently I am working with:
