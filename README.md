@@ -1,39 +1,20 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## Welcome to my page! I'm Kacper 
 
+```javascript
+const kacper = {
 
-### More about me:
-
-I've started my programming journey in October 2019. Trying to become a Web Developer.  
-I am first year Computer Science and Economics student at Gdansk University. 
-
-
-```java
-namespace Kacper Jach
-
-class About extends Me {
-
-  public function getStudies()
-  {
-    return [
-        'university' => 'University of Gdańsk',
-        'field_of_studies' => 'Computer Science and Econometrics',
-        'year' => 'First year undegraduate'
-        ];
-  }
-
-  public function getTechnologies()
-  {
-    return [HTML, CSS, JavaScript, Java, Python, C#, MS SQL Server];
-  }
-  
-  public function getGoals()
-  {
-    return [
-          'university' => 'Masters degree',
-          'job' => 'Web Developer'
-          ];
-  }
+  student: {
+                university: "University of Gdansk",
+                field_of_studies: "Computer Science and Econometrics",
+                year: "First year undergraduate"
+                },
+  languages: [HTML, CSS, JavaScript, Java, Python, C#, MS SQL Server];
+  goals: {
+              university: "Master's degree",
+              job: "Web Developer"
+              };
+}  
 ```
  
 ## Some of my GitHub Stats
