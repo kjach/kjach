@@ -13,7 +13,7 @@ Currently I am working with:
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 
-## Some of my Github Stats
+## Some of my GitHub Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kjach alt=kjach /> </p>
 
 
