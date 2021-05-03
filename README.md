@@ -13,7 +13,7 @@ const kacper = {
   goals: {
               university: "Master's degree",
               job: "Web Developer"
-              },
+              }
 }  
 ```
  
