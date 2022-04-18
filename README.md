@@ -9,10 +9,10 @@ const kacper = {
                 field_of_studies: "Computer Science and Econometrics",
                 year: "First year undergraduate"
                 },
-  languages: [HTML, CSS, JavaScript, Java, Python, C#, MS SQL Server],
+  skills: [HTML, CSS, JavaScript, Java, Python, SQL],
   goals: {
                 university: "Master's degree",
-                job: "Web Developer"
+                job: "Software Developer"
                 }
 }  
 ```
