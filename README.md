@@ -7,9 +7,9 @@ const kacper = {
   student: {
                 university: "University of Gdansk",
                 field_of_studies: "Computer Science and Econometrics",
-                year: "First year undergraduate"
+                year: "Second year undergraduate"
                 },
-  skills: [HTML, CSS, JavaScript, Java, Python, SQL],
+  skills: [Python, Java, SQL, HTML5, CSS3, JavaScript, Git, Ubuntu, C#],
   goals: {
                 university: "Master's degree",
                 job: "Software Developer"
@@ -26,7 +26,7 @@ const kacper = {
 
 
 ## Where to find me:
-[![Gmail Badge](https://img.shields.io/badge/-kacper.jach@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kacper.jach@outlook.com)](mailto:kacper.jach@outlook.com) [![Github Badge](https://img.shields.io/badge/-kjach-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kjach/)](https://www.github.com/kjach/) [![Twitter Badge](https://img.shields.io/badge/-jaszkuu-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jaszkuu/)](https://www.twitter.com/jaszkuu/) 
+[![Gmail Badge](https://img.shields.io/badge/-kacper.jach@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kacper.jach@outlook.com)](mailto:kacper.jach@outlook.com) [![Github Badge](https://img.shields.io/badge/-kjach-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kjach/)](https://www.github.com/kjach/)
 <!--
 **kjach/kjach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
